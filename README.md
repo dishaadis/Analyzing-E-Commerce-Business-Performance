@@ -9,7 +9,12 @@
 
 ## Repository Structure
 <p align="justify">
-  
+The repository is structured as follows:
+
+  * **Data**/    : This directory contains the dataset used for analysis.
+  * **Query**/   : This directory contains query for analysis.
+  * **Reports**/ : This directory contains ERD and report.
+
 </p>
 
 ## Data
