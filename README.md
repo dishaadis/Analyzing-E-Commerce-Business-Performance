@@ -1,1 +1,46 @@
-# Analyzing-E-Commerce-Business-Performance
+<p align="center">
+  <h1> Analyzing E - Commerce Business Performance </h1>
+</p>
+
+## Project Description
+<p align="justify">
+  
+</p>
+
+## Repository Structure
+<p align="justify">
+  
+</p>
+
+## Data
+<p align="justify">
+This directory contains the following files :
+
+  * **customers_dataset.csv**
+  * **order_items_dataset.csv**
+  * **order_payments_dataset.csv**
+  * **order_reviews_dataset.csv**
+  * **orders_dataset.csv**
+  * **product_dataset.csv**
+  * **sellers_dataset.csv**
+</p>
+
+## Query
+<p align="justify">
+  
+</p>
+
+## Process Analysis
+<p align="justify">
+  
+</p>
+
+## Reports
+<p align="justify">
+  
+</p>
+
+## Software Requirements
+<p align="justify">
+  
+</p>
