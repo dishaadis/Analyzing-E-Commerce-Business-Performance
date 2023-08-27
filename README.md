@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Analyzing E - Commerce Business Performance </h1>
+  <h1> E-Commerce Business Performance Analysis </h1>
 </p>
 
 ## Project Description
