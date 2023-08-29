@@ -4,7 +4,7 @@
 
 ## Project Description
 <p align="justify">
-  
+In a company, measuring business performance is very important to monitor and assess the success or failure of various business processes. Therefore, this project will analyze the business performance of an eCommerce company, taking into account several business metrics, namely user growth, product quality, and payment types.
 </p>
 
 ## Repository Structure
@@ -35,7 +35,7 @@ This directory contains the following files :
 This directory contains the following files :
   
   * **E-Commerce Business Performance Analysis Query.sql** : Queries to perform and data exploration
-  * **ERD.png** : Entity Relationship Diagram (ERD) of the seven tables.
+  * **ERD E-Commerce.pdf** : Entity Relationship Diagram (ERD) of the seven tables.
 </p>
 
 ## Process Analysis
